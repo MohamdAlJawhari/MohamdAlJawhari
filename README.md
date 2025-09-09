@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my final-year data science and machine learning project  .<br>🏢 I'm looking to collaborate with companies in data science.<br>🐍 I'm currently learning frameworks of python in machine learning and Power BI for data visualization.<br>🤝 I am looking for help starting my career.
+🔭 Nothing for now, but you will see soon..
 
 
 ## 🌐 Socials:
